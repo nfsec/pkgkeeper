@@ -3,11 +3,11 @@
 """
 title: PKGkeeper
 description: A script to manage package hold states on Debian-based systems.
-author: Patryk Krawaczyński
+author: Patryk 'agresor' Krawaczyński (NFsec.pl)
+version: 2.0
 date: 2025-10-20
-version: 1.00
 license: Apache-2.0
-python version: 3.x
+
 usage: ./pkgkeeper.py [package_name1 package_name2 ...]
        ./pkgkeeper.py (clear all holds by providing no arguments)
 """
